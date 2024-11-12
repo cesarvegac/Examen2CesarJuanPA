@@ -11,7 +11,7 @@ public class ExampleUnitTest {
         assertEquals("1111", Calculadora.convertirADestino(15, 0)); // 15 decimal a binario = 1111
     }
 
-    @Test//121
+    @Test//12
     public void testConvertirADestino_Octal() {
         assertEquals("12", Calculadora.convertirADestino(10, 1)); // 10 decimal a octal = 12
         assertEquals("17", Calculadora.convertirADestino(15, 1)); // 15 decimal a octal = 17
