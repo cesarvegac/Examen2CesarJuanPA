@@ -1,6 +1,6 @@
 package com.example.examen2;
 public class Calculadora {
-    //2223
+    //22234
     // Método para convertir el número a la base seleccionada (0: Binario, 1: Octal, 2: Decimal, 3: Hexadecimal)
     public static int convertirNumero(String input, int base) {
         int numero = 0;
